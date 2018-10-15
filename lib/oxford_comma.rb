@@ -14,6 +14,6 @@ def oxford_comma(array)
 #  if  }
 end
 
-#puts oxford_comma(["Alex","emily","Nate"])
+puts oxford_comma(["Alex","emily","Nate"])
 #puts oxford_comma(["Alex"])
 #
